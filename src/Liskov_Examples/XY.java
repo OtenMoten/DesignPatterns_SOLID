@@ -3,7 +3,7 @@
  *
  * Enjoy the course and feel free to contribute.
  */
-package Liskov;
+package Liskov_Examples;
 
 /**
  * @author Kevin Ossenbrück
